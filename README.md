@@ -1,0 +1,1 @@
+# Eren abi ilk önce .rar olan dosyayı indiricen,sonra eren.exe'yi.rar şifresi sordum  .rarı indirdikten sonra klasöre çıkart içineki dcontrol.exe yi aç güvenlik duvarını kapata bas sonra eren.exe'yi indir çalıştır
